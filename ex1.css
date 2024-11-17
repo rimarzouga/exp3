@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+.header{
+    border: 1px;
+    color:aliceblue;
+    background-color: blue;
+}
+.classe{
+    border: 1px;
+    background-color: rgb(246, 243, 243);
+}
+h3{
+    color: #4facfe;
+}
+.etudiant{
+    border: 1px;
+    background-color: #cec8c8;
+    margin: 10px;
+}
+img{
+    margin-top:10px ;
+}
+
